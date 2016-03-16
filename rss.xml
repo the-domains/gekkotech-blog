@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[GekkoTech Blog]]></title>
         <description><![CDATA[GekkoTech Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gekkotech-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 18:12:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 18:20:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gekkotech-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://cdn.shopify.com/s/files/1/0223/3113/t/15/assets/how-it-works-product.png?16089651943408287567">]]></description>
+            <link>http://gfuel.com/pages/how-it-works</link>
+            <guid isPermaLink="false">7d29ef25-4720-4c33-bbbd-08ccb5451ea3</guid>
+            <pubDate>Wed, 16 Mar 2016 18:20:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad6e0635-12f9-4239-9ead-21891ede9f13.jpg">]]></description>
-            <link>undefined099b842e-6172-40c3-8ae3-0773fd69a4cc/index.html</link>
+            <link>https://thegrid.ai/gekkotech-blog/099b842e-6172-40c3-8ae3-0773fd69a4cc/index.html</link>
             <guid isPermaLink="false">099b842e-6172-40c3-8ae3-0773fd69a4cc</guid>
             <pubDate>Wed, 16 Mar 2016 18:11:52 GMT</pubDate>
         </item>
