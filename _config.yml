@@ -1,0 +1,28 @@
+name: GekkoTech Blog
+favicon: null
+layout_spectrum: 0.4946247290354222
+typography_spectrum: 0.025687468936666846
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.15625020465813577
+  lightness: 0.19456637417897582
+  saturation: 0.04667788511142135
+  rhythmicContrast: 0.6332707174587995
+purpose: []
